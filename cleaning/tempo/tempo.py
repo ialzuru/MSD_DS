@@ -26,7 +26,7 @@ def usage():
     
 # ===================================================================================================
 def input_validation(argv):
-    if (len(argv) < 1) or (len(argv) > 2):
+    if (len(argv) != 2):
         usage()
         
     filename = argv[1]

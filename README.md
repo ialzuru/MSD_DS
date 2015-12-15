@@ -60,6 +60,10 @@ This conversion process reduced the dataset from 280 GB to 250 MB.
 Three fields were studied: Duration, Tempo, and Artist Location.
 The outliers in each case were verified, while the artist location was normalized
 and completed.
-We also show some plots of the raw data for  duration, tempo, and artist location.
+We also show some plots of the raw data for duration, tempo, and artist location.
 
-For the cleaning process of these 3 fields, please review the .md files of each correspondent subdirectory in the /cleaning folder.
+For the cleaning process of these 3 fields, please review the README.md files of each correspondent subdirectory in the /cleaning folder.
+
+
+Icaro Alzuru
+December - 2015
