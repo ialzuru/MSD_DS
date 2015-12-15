@@ -63,5 +63,5 @@ The following chart shows the number of songs per tempo.
 In the center of the image, there are peaks for 80, 90, 100, 110, and so on bpm.
 
 
-Icaro Alzuru
+**Icaro Alzuru**
 December - 2015

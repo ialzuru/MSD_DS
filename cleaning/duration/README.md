@@ -66,5 +66,5 @@ Long duration songs seem to be outliers, but extremely sort duration songs seem 
 Because we do not have another database to compare the values, it is difficult to determine in general what values are wrong due to the verification process is manual.
 
 
-Icaro Alzuru
+**Icaro Alzuru**
 December - 2015

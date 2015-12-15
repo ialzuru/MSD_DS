@@ -65,5 +65,5 @@ We also show some plots of the raw data for duration, tempo, and artist location
 For the cleaning process of these 3 fields, please review the README.md files of each correspondent subdirectory in the /cleaning folder.
 
 
-Icaro Alzuru
+**Icaro Alzuru**
 December - 2015
